@@ -9,3 +9,4 @@ A collection of some of my jupyter-notebooks from kaggle competitions, data anal
 * kaggle-state-farm: State Farm distracted driver detection kaggle competition.
 * wine-detection: Predicting the country of origin of a wine based on its description.
 * ml-foundations: Different notebooks presenting and studying foundational machine learning concepts.
+* auto1: Predicting car prices based on its features
